@@ -1,0 +1,14 @@
+/.git/
+/.vscode/
+node_modules/
+.gitignore
+.npmignore
+*.log
+src/*
+dist/*
+.editorconfig
+.eslintrc.js
+.babelrc
+tsconfig.json
+test/smoke-testing/template/dist/*
+changelog.md
